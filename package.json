@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "browserslist": "^4.18.1",
-    "moment": "^2.29.1",
+    "moment": "^2.14.0",
     "semver": "^7.3.5"
   }
 }
