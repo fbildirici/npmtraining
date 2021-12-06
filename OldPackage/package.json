@@ -1,0 +1,14 @@
+{
+  "name": "oldpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fatihbildirici",
+  "license": "ISC",
+  "dependencies": {
+    "babel-jest": "^27.4.2"
+  }
+}
