@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-      "build": "npm run compile"
-
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run compile"
   },
   "author": "fatihbildirici",
   "license": "MIT",
